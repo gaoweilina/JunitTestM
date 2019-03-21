@@ -21,4 +21,7 @@ public class JtestServlet extends HttpServlet {
 		doGet(request, response);
 	}
 
+	public int add (int a ,int b ){
+		return a+b;
+	}
 }
