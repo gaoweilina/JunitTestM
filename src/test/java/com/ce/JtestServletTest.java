@@ -8,7 +8,7 @@ public class JtestServletTest {
 
 	@Test
 	public void testAdd() {
-		assertEquals(2, new JtestServlet().add(1, 1));
+		assertEquals(3, new JtestServlet().add(1, 1));
 	}
 
 }
