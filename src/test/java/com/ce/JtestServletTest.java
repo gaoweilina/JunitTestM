@@ -31,5 +31,40 @@ public class JtestServletTest {
 		assertEquals(2, new JtestServlet().add(1, 1));
 	}
 	
+	@Test
+	public void testAdd7() {
+		assertEquals(3, new JtestServlet().add(1, 1));
+	}
+	
+	@Test
+	public void testAdd8() {
+		assertEquals(3, new JtestServlet().add(1, 1));
+	}
+	
+	@Test
+	public void testAdd9() {
+		assertEquals(3, new JtestServlet().add(1, 1));
+	}
+	
+	@Test
+	public void testAdd10() {
+		assertEquals(2, new JtestServlet().add(1, 1));
+	}
+	
+	@Test
+	public void testAdd11() {
+		assertEquals(2, new JtestServlet().add(1, 1));
+	}
+	
+	@Test
+	public void testAdd12() {
+		assertEquals(2, new JtestServlet().add(1, 1));
+	}
+	
+	@Test
+	public void testAdd13() {
+		assertEquals(2, new JtestServlet().add(1, 1));
+	}
+	
 
 }
