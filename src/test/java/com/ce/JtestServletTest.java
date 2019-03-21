@@ -12,7 +12,7 @@ public class JtestServletTest {
 	}
 	@Test
 	public void testAdd2() {
-		assertEquals(3, new JtestServlet().add(1, 1));
+		assertEquals(2, new JtestServlet().add(1, 1));
 	}
 	@Test
 	public void testAdd3() {
@@ -20,11 +20,11 @@ public class JtestServletTest {
 	}
 	@Test
 	public void testAdd4() {
-		assertEquals(3, new JtestServlet().add(1, 1));
+		assertEquals(2, new JtestServlet().add(1, 1));
 	}
 	@Test
 	public void testAdd5() {
-		assertEquals(3, new JtestServlet().add(1, 1));
+		assertEquals(2, new JtestServlet().add(1, 1));
 	}
 	@Test
 	public void testAdd6() {
@@ -33,17 +33,17 @@ public class JtestServletTest {
 	
 	@Test
 	public void testAdd7() {
-		assertEquals(3, new JtestServlet().add(1, 1));
+		assertEquals(2, new JtestServlet().add(1, 1));
 	}
 	
 	@Test
 	public void testAdd8() {
-		assertEquals(3, new JtestServlet().add(1, 1));
+		assertEquals(2, new JtestServlet().add(1, 1));
 	}
 	
 	@Test
 	public void testAdd9() {
-		assertEquals(3, new JtestServlet().add(1, 1));
+		assertEquals(2, new JtestServlet().add(1, 1));
 	}
 	
 	@Test
