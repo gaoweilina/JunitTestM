@@ -23,6 +23,8 @@ public class JtestServletTest {
 	public void testAdd4() {
 		assertEquals(2, new JtestServlet().add(1, 1));
 	}
+	
+	@Test
 	@Ignore
 	public void testAdd5() {
 		assertEquals(2, new JtestServlet().add(1, 1));
